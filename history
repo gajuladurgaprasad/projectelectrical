@@ -1,0 +1,96 @@
+    1  git config --global user.name"gajuladurgaprasad"
+    2  git config --global user.email"dpd211gec10@gmail.com"
+    3  git config --list
+    4  mkdir projectelectrical
+    5  cd projectelectrical/
+    6  ls
+    7  git clone "https://github.com/gajuladurgaprasad/projectelectrical.git"
+    8  ls
+    9  cd projectelectrical/
+   10  ls
+   11  git status
+   12  git add README.md 
+   13  git status
+   14  git commit -m 
+   15  git commit -m "this is my first comit"
+   16  git remote -v 
+   17  git push origin  master 
+   18  git push origin  master 
+   19  cd ..
+   20  git clone "https://github.com/gajuladurgaprasad/Project-LS.git"
+   21  ls
+   22  cd project-LS
+   23  ls
+   24  cat README.md 
+   25  git status 
+   26  ssh-keygen -t rsa
+   27  cd projectelectrical
+   28  cd ..projectelectrical
+   29  cd ..
+   30  cd projectelectrical/
+   31  git status 
+   32  git diff master 
+   33  cd projectelectrical/
+   34  git clone "https://github.com/gajuladurgaprasad/kkar_test.git"
+   35  ls
+   36  cd kkar_test/
+   37  ls
+   38  git status
+   39  git add
+   40  git add [file]
+   41  cd projectelectrical/
+   42  git clone"https://github.com/gajuladurgaprasad/kkar_test.git"
+   43  cd projectelectrical/
+   44  git clone "https://github.com/gajuladurgaprasad/projectelectrical.git"
+   45  git clone https://github.com/gajuladurgaprasad/projectelectrical.git
+   46  ls
+   47  cd projectelectrical/
+   48  ls
+   49  git status
+   50  git add
+   51  ls
+   52  git status
+   53  git status
+   54  git add
+   55  git commit -a
+   56  cd projectelectrical/
+   57  git clone https://github.com/gajuladurgaprasad/projectelectrical.git
+   58  ls
+   59  cd projectelectrical/
+   60  ls
+   61  git status
+   62  git add projectelectrical
+   63  git add readme.md
+   64  git add readme
+   65  cd projectelectrical/
+   66  ls
+   67  cd projectelectrical/
+   68  git clone https://github.com/gajuladurgaprasad/projectelectrical.git
+   69  ls
+   70  cd projectelectrical/
+   71  ls
+   72  git status
+   73  git add README.md
+   74  git status
+   75  git commit
+   76  git status
+   77  git push origin
+   78  ls
+   79  mkdir projects
+   80  ls
+   81  cd project
+   82  cd projects/
+   83  ls
+   84  git clone "https://github.com/gajuladurgaprasad/projectelectrical.git"
+   85  git clone https://github.com/gajuladurgaprasad/projectelectrical.git
+   86  ls
+   87  cd projectelectrical/
+   88  ls
+   89  git status
+   90  git add .
+   91  git status
+   92  git commit -am "mychanges"
+   93* 
+   94  history
+   95  history > history commands
+   96  history > history
